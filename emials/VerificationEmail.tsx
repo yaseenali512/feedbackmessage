@@ -48,3 +48,4 @@ export default function VerificationEmail({username, otp}
             </Html>
         );
     }
+
